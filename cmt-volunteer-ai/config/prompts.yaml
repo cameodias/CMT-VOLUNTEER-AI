@@ -1,0 +1,12 @@
+skill_extraction: |
+  Extract professional skills from the text.
+  Return JSON array only.
+
+persona_classification: |
+  Classify the person into one:
+  - Mentor Material
+  - Needs Guidance
+  - Passive
+
+confidence: |
+  Give confidence score between 0 and 1.
